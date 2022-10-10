@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'AIzaSyDgilforvWsXTL45JM_zdLCtjzEanofjgc';
+const API_KEY = '';
 
 function createUser() {
   axios.post(
